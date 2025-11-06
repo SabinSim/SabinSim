@@ -5,7 +5,7 @@
 | Attribute | Details |
 | :--- | :--- |
 | **Status** | Korea Cyber University Computer Engineering B.S. Student (Scheduled for Early Graduation in 2026) |
-| **Location** | 🇨🇭 Based in Switzerland |
+| **Location** | 🇨🇭 **Based in Switzerland** (With strong local ties, ensuring long-term stability and cultural understanding.) |
 | **Focus** | Transitioning into a professional **Full-Stack Development** role. |
 | **Philosophy** | **Embracing growth and tackling new challenges with a project-based approach.** |
 
