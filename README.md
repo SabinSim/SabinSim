@@ -59,6 +59,5 @@ As a Computer Engineering student and aspiring Full-Stack Developer, my approach
 I'm open to discussing full-stack development, Python projects, and job opportunities in Switzerland/globally. Feel free to reach out!
 
 * **Email:** <simgoon89@gmail.com> 
-  (Alternatively, you can use the badge below for quick contact.)
 
-[![Email Badge](https://img.shields.io/badge/Email-simgoon89%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:simgoon89@gmail.com)
+
