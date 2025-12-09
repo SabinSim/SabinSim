@@ -89,4 +89,5 @@ To prepare for the local industry demands in the **Grisons region**, I have desi
 I am eager to contribute as a **Junior Software Engineer** in the **Canton of Grisons**.
 
 * **Email:** simgoon89@gmail.com
+* **Tech Blog:** [Visit My Dev Log](https://dev.to/ian_b838138a27a917398d181)  *(Contains detailed study notes)**
 * **Location:** Cazis, Switzerland
