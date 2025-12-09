@@ -1,63 +1,93 @@
-# Hello! I'm Sabin Sim, an Aspiring Full-Stack Engineer 🚀
+# Hello! I'm Sabin Sim, an Aspiring Software Engineer 🇨🇭
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/YOUR_USERNAME)
 
 ## 📍 About Me
 
+I am a Computer Engineering student based in **Cazis, Switzerland**, with a strong passion for building reliable and scalable backend systems.
+Transitioning from a Python-based stack, I am actively expanding my expertise into the **.NET ecosystem** and **Cloud Infrastructure**.
+
 | Attribute | Details |
 | :--- | :--- |
-| **Status** | Korea Cyber University Computer Engineering B.S. Student (Scheduled for Early Graduation in 2026) |
-| **Location** | 🇨🇭 **Based in Switzerland** (With strong local ties, ensuring long-term stability and cultural understanding.) |
-| **Focus** | Transitioning into a professional **Full-Stack Development** role. |
-| **Philosophy** | **Embracing growth and tackling new challenges with a project-based approach.** |
+| **Status** | Korea Cyber University Computer Engineering B.S. (Early Graduation Expected: 2026) |
+| **Location** | 🇨🇭 **Cazis, Grisons** (Settled with B-Permit / Highly adaptable to local culture) |
+| **Focus** | **Python (FastAPI)** ➡️ **C# (.NET Core)** transition |
+| **Interests** | **Industrial Automation (Robotics)**, **Fintech**, **Secure Cloud Systems** |
+| **Philosophy** | **"Strong Fundamentals, Clean Code"** – Building software that is easy to maintain and test. |
 
 ---
 
-## 💻 Tech Stack & Current Focus
+## 🛠️ Technical Skills & Learning Path
 
-I am currently concentrating on becoming a proficient Full-Stack Developer, primarily guided by the curriculum recommended by Google Gemini.
+I follow a **Project-Based Learning (PBL)** approach to bridge the gap between theory and practical application.
 
-### 📚 Core Learning Stacks
+| Phase | Stack | Status | Core Competencies |
+| :--- | :--- | :--- | :--- |
+| **Web Basics** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) | ✅ **Completed** | REST API concepts, MVC Pattern |
+| **Current Focus** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🔄 **In Progress** | Asynchronous Programming, DB Optimization, Background Tasks |
+| **Next Steps** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) | 📅 **Planned** | Strictly Typed Systems, Enterprise Patterns, CI/CD |
 
-| Category | Technology Stacks |
-| :--- | :--- |
-| **Backend** | Python (Django/Flask), Java (Learned through university coursework) |
-| **Frontend** | JavaScript (Planning to learn React/Vue and related libraries) |
-| **Databases** | SQL / NoSQL (Next step in the learning curriculum) |
-| **Fundamentals** | C (University Coursework), Data Structures and Algorithms |
+---
 
+## 🚀 Featured Project: SwissHome Rush (Active)
 
-## 💡 What I'm currently focused on
+> **"Solving the Swiss housing market challenges with high-concurrency backend logic."**
 
-* **Career Goal:** Successfully transitioning into a Full-Stack Developer role in Switzerland or a global environment.
-* **Projects:** [Briefly mention the name or idea of a project you are currently working on here]
-* **Next Step in Curriculum:** [Mention the next topic you are about to study (e.g., Building a SPA with React)]
+Currently developing a backend service to manage the complex rental process in Switzerland. This project focuses on handling **logic-heavy scenarios** and **traffic management**.
 
-<br/>
+* **Key Technical Challenges:**
+    * **Logic Engine:** Implementing Swiss salary/tax calculation rules for rent affordability checks.
+    * **External Integration:** Async integration with **SBB API** for commute analysis.
+    * **Concurrency Control:** Using **Redis** to manage "Viewing Slot" reservations (preventing race conditions).
+    * **Tech Stack:** FastAPI, Pydantic, PostgreSQL, Docker, Celery.
 
-## 🔨 Current Projects I'm Building
+---
 
-These are the core projects and applications I am actively working on, utilizing key concepts from my full-stack curriculum:
+## 🗺️ Future Roadmap: Expanding into .NET
 
-* **🐍 Python CLI Quiz Master (In Progress)**
-    — A command-line application focusing on interactive quizzes. This project emphasizes **clean function design**, **input validation**, and managing **data structures (lists/dictionaries)** to handle question sets.
-* **☕️ OOP Vending Machine Simulator (Planning Phase)**
-    — Currently in the design phase. This console application will simulate a simple machine, built to master **Object-Oriented Programming (OOP)** principles and robust **error handling**.
-* **🛡️ Text-Based Combat System (Advanced OOP)**
-    — A turn-based combat game built in Python. This project is dedicated to mastering **advanced OOP concepts** like inheritance and polymorphism, and exploring libraries for enhanced CLI output.
+To prepare for the local industry demands in the **Grisons region**, I have designed a self-directed curriculum to master the Microsoft ecosystem.
 
-*I am continuously pushing updates and starting new experiments as I progress through my learning path.*
+### 🔬 Domain Focus: Automation & IoT
+* **Goal:** Understanding state management and hardware control simulations.
+* **Planned Project:** **Liquid Handler Simulator** (Simulating robotic arm states using C# Async/Await and State Pattern).
 
-## 🚀 My Approach
+### ☁️ Domain Focus: Enterprise Cloud & Security
+* **Goal:** Building secure, compliant APIs for financial or medical data.
+* **Planned Project:** **Secure Asset Vault** (Focus on Clean Architecture, Azure Key Vault, and Role-Based Access Control).
 
-As a Computer Engineering student and aspiring Full-Stack Developer, my approach is centered on efficiency, depth, and tangible results:
+### ♾️ Infrastructure: DevOps
+* **Goal:** Automating deployment and monitoring.
+* **Certification Plan:** Studying for **AZ-104 (Admin)** and **AZ-400 (DevOps)** to understand the full software lifecycle.
 
-1.  **Project-Driven Learning (PDL):** I prioritize hands-on practice. Every new concept or technology I learn is immediately applied in a small experiment or integrated into a feature of a larger project.
-2.  **Clean Code & Fundamentals:** I strive to write maintainable, well-documented code, emphasizing core software engineering principles, algorithms, and data structures before diving into frameworks.
-3.  **Growth Mindset & Ownership:** I actively seek out challenging problems and new technologies (like the curriculum provided by Gemini) and take full ownership of the learning process, documenting my failures and successes.
+---
 
-## 📬 Let's Connect!
+## 📂 Foundation Projects
 
-I'm open to discussing full-stack development, Python projects, and job opportunities in Switzerland/globally. Feel free to reach out!
+<details>
+<summary>👉 <b>Click to view earlier projects</b></summary>
 
-* **Email:** <simgoon89@gmail.com> 
+### 🐍 Python & Flask
+* **Productivity Suite:** Implemented a full CRUD application with User Authentication using Flask & SQLite.
 
+### 📊 Streamlit Data Apps
+* **Living Cost Calculator:** Visualizing monthly expenses and exchange rates.
+* **Currency Converter:** Simple tool connecting to external APIs.
 
+</details>
+
+---
+
+## ⚡ Developer Philosophy
+
+1.  **Documentation:** I believe code is read more often than it is written. I maintain clear commit logs and documentation.
+2.  **Why over How:** I strive to understand the architectural reasons behind code, not just the syntax.
+3.  **Adaptability:** Transitioning from Python to C# demonstrates my ability to learn new technologies quickly to meet business needs.
+
+---
+
+## 📬 Contact
+
+I am eager to contribute as a **Junior Software Engineer** in the **Canton of Grisons**.
+
+* **Email:** simgoon89@gmail.com
+* **Location:** Cazis, Switzerland
