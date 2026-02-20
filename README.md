@@ -10,8 +10,7 @@ Transitioning from a Python-based stack, I am actively expanding my expertise in
 | :--- | :--- |
 | **Status** | Korea Cyber University Computer Engineering B.S. (Early Graduation Expected: 2026) |
 | **Location** | 🇨🇭 **Cazis, Grisons** (Settled with B-Permit / Highly adaptable to local culture) |
-| **Focus** | **Python (FastAPI)** ➡️ **C# (.NET Core)** transition |
-| **Interests** | **Industrial Automation (Robotics)**, **Fintech**, **Secure Cloud Systems** |
+| **Focus** | **C# (.NET Core)** transition |
 | **Philosophy** | **"Strong Fundamentals, Clean Code"** – Building software that is easy to maintain and test. |
 
 ---
