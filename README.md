@@ -16,18 +16,6 @@ Transitioning from a Python-based stack, I am actively expanding my expertise in
 
 ---
 
-## 🛠️ Technical Skills & Learning Path
-
-I follow a **Project-Based Learning (PBL)** approach to bridge the gap between theory and practical application.
-
-| Phase | Stack | Status | Core Competencies |
-| :--- | :--- | :--- | :--- |
-| **Web Basics** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) | ✅ **Completed** | REST API concepts, MVC Pattern |
-| **Current Focus** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ✅ **Completed** | Asynchronous Programming, DB Optimization, Background Tasks |
-| **Next Steps** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) | 🔄 **In Progress** | Strictly Typed Systems, Enterprise Patterns, CI/CD |
-
----
-
 ## 🚀 Featured Project: SwissHome Rush (Active)
 
 > **"Solving the Swiss housing market challenges with high-concurrency backend logic."**
