@@ -1,5 +1,5 @@
 # 👨‍💻 Sabin Sim
-**Backend-Oriented Software Engineer | System Flow & Architecture Enthusiast 🇨🇭**
+**Backend-Oriented Software Engineer 🇨🇭**
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sabinsim/" target="_blank">
