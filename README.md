@@ -29,16 +29,6 @@ I believe real engineering begins when you understand *why* a system behaves the
 
 ---
 
-## 📌 Active Engineering: Core Fundamentals
-I build structured console applications to translate my architectural thinking into concrete C# code.
-
-* 🔗 **[Featured Repository: CSharp-Mini-Projects](https://github.com/SabinSim/CSharp-Mini-Projects)** — *C# Flow Practice (Input Validation & Control Flow Patterns)*
-  * **Input Validation Loops:** Implementing robust, error-proof patterns using `TryParse` and `out` parameters.
-  * **Control-Flow Driven State:** Designing predictable state transitions using `while`, `do-while`, and structured control flow.
-  * **Clean Method Separation:** Designing methods with clear responsibilities, tracing return values, and utilizing 'Early Return' patterns.
-
----
-
 ## 🧩 Development Philosophy
 * **1️⃣ Flow First:** *I avoid writing code I cannot mentally simulate.* I focus on understanding the complete lifecycle of a request: `Input → Validation → Processing → Return → Output`.
 * **2️⃣ Structure Over Syntax:** I strive to deeply understand the "Why" (e.g., *Why is static required here? What does return actually do to the call stack?*).
