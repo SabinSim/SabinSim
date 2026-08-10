@@ -1,50 +1,78 @@
-# 👨‍💻 Sabin Sim
-**Backend-Oriented Software Engineer 🇨🇭**
+# Hi, I'm Sabin 👋
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/sabinsim/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://dev.to/sabin_sim" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Dev.to" />
-  </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<div align="center">
+
+# Hi, I'm Sabin Sim 👋
+
+**Junior Software Engineer · C#/.NET · Grisons, Switzerland**
+🟢 Open to new roles from February 2026
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabinsim/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:simgoon89@gmail.com)
+
 </div>
-<br>
-
-## 📍 About Me
-I am a Computer Engineering student based in **Cazis, Switzerland**. **I build reliable backend systems by focusing on execution flow, predictable state transitions, and structural clarity.** Transitioning from Python-based backend development, I am currently dedicating myself to the **C# and .NET ecosystem** alongside **Azure Cloud Infrastructure**.
-
-I believe real engineering begins when you understand *why* a system behaves the way it does. I focus on understanding execution flow, call stack behavior, and state transitions before moving to higher-level frameworks. 
 
 ---
 
-## 📜 Certifications & Cloud Journey
-* 🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)** – *Achieved*
-* 🎯 **Microsoft Certified: Azure Administrator Associate (AZ-104)** – *In Progress*
+## 👷 → 💻 The short version
+
+Before software, I worked as a tiler, a construction site supervisor, and a production technician on robotic welding lines. In 2024 I started a Computer Engineering degree while working, finished with a 4.3/4.5 GPA, and have been building real projects since — not just following tutorials.
+
+I care about *understanding* what I ship, not just shipping. Every line in my current project is one I can explain.
+
+## 🔭 Currently building — German Learning App
+
+`C#` `.NET MAUI` `OpenAI API`
+
+A personal project born out of a real frustration: constantly having to ask *why* a German noun takes a certain article, or how an adjective ending shifts with context. So I'm building the tool I wished existed.
+
+I write every line myself. AI is my teacher, not my ghostwriter — it explains a concept, I ask questions until it clicks, then I write the code.
+
+| Status | Component |
+|---|---|
+| ✅ Done | Domain layer — defines the core promise: analyze a German sentence → translation, literal translation, word-by-word grammar breakdown |
+| ✅ Done | OpenAI integration layer — sends the sentence, parses structured grammar analysis back into usable objects |
+| 🔜 Next | Vocabulary storage + Leitner-system spaced-repetition flashcards |
+| 🔜 Next | User-facing UI |
+
+Progress updates posted regularly on [LinkedIn](https://www.linkedin.com/in/sabinsim/) under #BuildInPublic.
+
+## 🧭 2026 roadmap
+
+- [x] Computer Engineering degree (GPA 4.3/4.5)
+- [x] Microsoft Azure Fundamentals certification
+- [x] Microsoft Back-End Developer certification
+- [ ] Ship v1 of the German Learning App
+- [ ] German B1 certification (telc)
+- [ ] Land first junior .NET role
+
+## 🎓 Education & Certifications
+
+- **BE, Computer Engineering** — The Cyber University of Korea · GPA 4.3/4.5
+- **Microsoft Back-End Developer** — 2026
+- **Microsoft Azure Fundamentals** — 2025
+
+## 🛠️ Tech & tools
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+
+## 🌍 Languages
+
+🇰🇷 Korean — native
+🇬🇧 English — advanced
+🇩🇪 German — studying (targeting B1)
+
+## 📫 Let's connect
+
+Open to junior .NET developer roles in Switzerland — on-site or hybrid, based in Grisons, also considering Zürich/Winterthur area.
+📌 [LinkedIn](https://www.linkedin.com/in/sabinsim/) · 📧 [simgoon89@gmail.com](mailto:simgoon89@gmail.com)
 
 ---
-
-## 🧩 Development Philosophy
-* **1️⃣ Flow First:** *I avoid writing code I cannot mentally simulate.* I focus on understanding the complete lifecycle of a request: `Input → Validation → Processing → Return → Output`.
-* **2️⃣ Structure Over Syntax:** I strive to deeply understand the "Why" (e.g., *Why is static required here? What does return actually do to the call stack?*).
-* **3️⃣ Clean Code Thinking:** Clear naming conventions, strict separation of responsibilities, and reusable logic.
+<div align="center"><i>Still building — in the app, and in the career.</i> 🌱</div>
 
 ---
-
-## 🚀 Mid to Long-Term Vision
-* **Mid-Term:** **Building ASP.NET Core Web APIs with proper separation of concerns and testable architecture.**
-* **Long-Term Vision:** Designing secure backend systems for financial/medical domains, implementing Clean Architecture in enterprise environments, and automating Cloud infrastructure deployment via Azure.
-
----
-
-## 📬 Let's Connect!
-I am always open to discussing system design, backend flow, and software architecture.
-* 💼 **LinkedIn:** [Sabin Sim](https://www.linkedin.com/in/sabinsim/)
-* 📝 **Tech Blog:** [dev.to/sabin_sim](https://dev.to/sabin_sim) *(Contains detailed study notes)*
-* 📧 **Email:** simgoon89@gmail.com
-* 📍 **Location:** Cazis, Grisons, Switzerland (B-Permit)
+*This profile is a work in progress — just like the developer behind it.* 🌱
